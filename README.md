@@ -55,5 +55,5 @@ If you face issues loading the model with 4-bit quantization:
 
 
   ---
-  ### Author
-  [Ali Saad]
+  ### WandB Report
+  [Click here for more details](https://wandb.ai/alifage14-none/huggingface/reports/Fine-Tuning-Qwen-7B-Chat-with-LoRA-and-4-bit-Quantization--VmlldzoxMzY2MTg4Nw)
