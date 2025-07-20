@@ -1,5 +1,5 @@
 # Fine-tuning Qwen-7B-Chat with LoRA and 4-bit Quantization
-This  jupyter notebook demostrates how to fine-tune the Qwen-7B-Chat model using Hugging Face Transformers with LoRA(Low-Rank Adaptation) for efficient traning, combined with 4 bit Quantization to reduce memory usage.
+This  [jupyter notebook](Qwen-7B-Chat_Clean.ipynb) demostrates how to fine-tune the Qwen-7B-Chat model using Hugging Face Transformers with LoRA(Low-Rank Adaptation) for efficient traning, combined with 4 bit Quantization to reduce memory usage.
 ---
 
 ## Features
